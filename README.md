@@ -19,5 +19,3 @@
 + **Start-Up Page**: [Jarvis](https://github.com/loej/Jarvis)
 + **Color Scheme**: [Banana Blueberry](https://atomcorp.github.io/themes)
 + **Wallpaper**: [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
-
-## Details
